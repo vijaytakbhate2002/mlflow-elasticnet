@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vijay%20Takbhate/Desktop/Primary%20WorkSpace/ML%20Ops/ML%20flow/tutorial%202/mlruns/0/5a67782138bd4e6894625ff0e05844f9/artifacts
+end_time: 1693390489222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a67782138bd4e6894625ff0e05844f9
+run_name: ambitious-zebra-164
+run_uuid: 5a67782138bd4e6894625ff0e05844f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693390481723
+status: 3
+tags: []
+user_id: Vijay Takbhate

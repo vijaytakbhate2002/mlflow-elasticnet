@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vijay%20Takbhate/Desktop/Primary%20WorkSpace/ML%20Ops/ML%20flow/tutorial%202/mlruns/0/356c79f8f77c4725a96c3cc9163ab257/artifacts
+end_time: 1693390115155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 356c79f8f77c4725a96c3cc9163ab257
+run_name: gentle-deer-464
+run_uuid: 356c79f8f77c4725a96c3cc9163ab257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693390115045
+status: 4
+tags: []
+user_id: Vijay Takbhate
